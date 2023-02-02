@@ -1,0 +1,4 @@
+- Here is an example code that implements the simulation of dollar cost averaging (DCA) and lump-sum investing (LSI) using historical S&P 500 data and a lognormal distribution of returns. The code uses the Pandas library for data processing, Numpy for array operations, and Matplotlib for plotting the results.
+- This code will produce a graph that compares the returns of the two investment strategies, using the historical S&P 500 data as the underlying asset. You can adjust the parameters such as start date, end date, investment amount, and number of investments, to see how the results change.
+
+To simulate returns using a lognormal or normal distribution, you can use the np.random.lognormal or np.random.normal functions respectively, and run the simulation multiple times to get an average result. You can also adjust the mean and variance parameters to see how the results change.
