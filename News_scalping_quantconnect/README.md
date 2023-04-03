@@ -1,0 +1,1 @@
+- A news scalping strategy using quantconnect
