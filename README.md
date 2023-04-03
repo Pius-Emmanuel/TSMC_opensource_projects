@@ -1,1 +1,1 @@
-# sideproject
+# News Scalping and dollar cost averaging 
